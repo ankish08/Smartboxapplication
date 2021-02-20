@@ -6,5 +6,6 @@
     "video": true,
     "screenshotOnRunFailure": true,
     "trashAssetsBeforeRuns": true,
-    "testFiles": "**/*.feature"
+    "testFiles": "**/*.feature",
+    "projectId": "eb4x32"
 }
