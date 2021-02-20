@@ -1,0 +1,10 @@
+{ 
+    "baseURL": null,
+    "chromeWebSecurity": true,
+    "execTimeout": 60000,
+    "screenshotsFolder":"cypress/screenshots",
+    "video": true,
+    "screenshotOnRunFailure": true,
+    "trashAssetsBeforeRuns": true,
+    "testFiles": "**/*.feature"
+}
